@@ -1,0 +1,99 @@
+body{
+    margin:0;
+}
+header{
+    display:flex;
+    justify-content: center;
+    background-image: url(images/pikes\ peak.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    padding: 3rem 1rem;
+}
+
+header>img{
+    width:7rem;
+    max-width:100%;
+}
+
+nav{
+    text-align:center;
+}
+
+nav>a{
+    text-decoration:none;
+    display:inline-block;
+   
+    padding: .25rem;
+    margin:.5rem;
+    font-size:.8rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:1rem;
+
+}
+
+#email{
+    margin-top: 2rem;
+}
+
+#intro{
+    margin-top: 1rem;
+}
+
+main>img{
+    width:23rem;
+    max-width: 100%;
+    display:flex;
+    justify-content:center;
+    margin: 1rem auto;
+
+}
+#about{
+    margin-top:2rem;
+}
+
+#art{
+    margin-top:5rem;
+
+}
+
+#graphicdesign{
+    margin-top:5rem;
+}
+
+#photography{
+    margin-top:5rem;
+}
+
+h1{
+    font-size: 2rem;
+    font-weight:bold;
+    text-decoration:underline;
+    margin-top:4rem;
+}
+
+h2{
+    font-size:1rem;
+    margin-top:3rem;
+}
+
+#painting{
+    margin-top:2rem;
+}
+
+#gd2{
+    margin-top:1rem;
+}
+
+#class{
+    margin-top:1rem;
+}
+
+#bug{
+   width:10rem;
+   max-width:100%;
+}
