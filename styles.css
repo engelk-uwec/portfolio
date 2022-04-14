@@ -4,7 +4,7 @@ body{
 header{
     display:flex;
     justify-content: center;
-    background-image: url(images/pikes\ peak.jpg);
+    background-image: url(images/pikespeak.jpg);
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center;
@@ -113,6 +113,15 @@ h2{
       margin: 1rem auto;
     
 
+   }
+
+   header>img{
+       width:14rem;
+   }
+
+
+   header{
+       padding:8rem 1rem;
    }
 .pictures{
     display:flex;
